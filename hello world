@@ -1,0 +1,21 @@
+public class Main {
+  public static void main(String[] args) {
+    
+    
+    
+    
+    System.out.printf("Hello world\nkush\n");
+    int sum1=74+56; 
+    int sum2=542+569772;
+    System.out.println(sum1);
+  
+    
+    
+    
+    
+    
+    
+    
+  // Write your code here
+ }
+}
