@@ -1,0 +1,11 @@
+public class Main {
+  public static void main(String[] args)
+  {
+    
+    System.out.println("to perform multiplication between two number");
+    int x=50;
+    int y=3;
+    System.out.println(x*y);
+ 
+ }
+}
