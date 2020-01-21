@@ -2,10 +2,11 @@ public class Main {
   public static void main(String[] args)
   {
     
-    System.out.println("to perform multiplication between two number");
-    int x=50;
-    int y=3;
-    System.out.println(y-x);
+    System.out.println("Write a Java program to print the result of the following operations");
+    int x=5;
+    int y=8;
+    int z=6;
+    System.out.println(-x+y*z);
  
  }
 }
